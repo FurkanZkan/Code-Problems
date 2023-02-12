@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\bin\Debug\net6.0\Two Sum.exe
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\bin\Debug\net6.0\Two Sum.deps.json
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\bin\Debug\net6.0\Two Sum.runtimeconfig.json
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\bin\Debug\net6.0\Two Sum.dll
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\bin\Debug\net6.0\Two Sum.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.dll
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\refint\Two Sum.dll
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\Two Sum.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Code Solutation\Two Sum\Two Sum\obj\Debug\net6.0\ref\Two Sum.dll
