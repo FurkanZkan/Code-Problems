@@ -51,7 +51,7 @@ int[] TwoSum(int[] nums, int target)
     }
     throw new Exception("No two sum solution");
 }
-TwoSum(nums, targetNum);
+
 
 
 
