@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy Number", "Happy Number\Happy Number.csproj", "{C3B64CA8-FD36-46FA-865D-030CA5A2CB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B64CA8-FD36-46FA-865D-030CA5A2CB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B64CA8-FD36-46FA-865D-030CA5A2CB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B64CA8-FD36-46FA-865D-030CA5A2CB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B64CA8-FD36-46FA-865D-030CA5A2CB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCCC972-2CBF-4D7D-A999-A51E332F86AF}
+	EndGlobalSection
+EndGlobal

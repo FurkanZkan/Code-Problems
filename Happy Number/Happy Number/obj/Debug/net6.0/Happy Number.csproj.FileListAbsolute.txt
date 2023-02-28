@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\bin\Debug\net6.0\Happy Number.exe
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\bin\Debug\net6.0\Happy Number.deps.json
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\bin\Debug\net6.0\Happy Number.runtimeconfig.json
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\bin\Debug\net6.0\Happy Number.dll
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\bin\Debug\net6.0\Happy Number.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.dll
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\refint\Happy Number.dll
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\Happy Number.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Code Solutation\Happy Number\Happy Number\obj\Debug\net6.0\ref\Happy Number.dll
