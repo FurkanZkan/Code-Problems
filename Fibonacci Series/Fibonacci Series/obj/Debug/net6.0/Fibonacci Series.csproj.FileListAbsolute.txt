@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.exe
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.deps.json
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.runtimeconfig.json
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.dll
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.dll
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\refint\Fibonacci Series.dll
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.pdb
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Code Solutation\Fibonacci Series\Fibonacci Series\obj\Debug\net6.0\ref\Fibonacci Series.dll
